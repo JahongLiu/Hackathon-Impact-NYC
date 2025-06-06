@@ -11,4 +11,7 @@ lovable:
 
 Idea: "Education Assistant: Parent/Child/Teachers"
 
+User experience
+
+Actual Impact: The real pain point?
 
