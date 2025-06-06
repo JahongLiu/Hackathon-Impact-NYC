@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1YPvx8UWDnfw0BEi43-odEv5wGPXfTw7mLIdFAqKGFNc/edit?tab=t.0
+
 # Hackathon-Impact-NYC
 Hackathon project for impact nyc
 
@@ -15,3 +17,6 @@ User experience
 
 Actual Impact: The real pain point?
 
+Features:
+- Translation + Summary Insight 
+- 
