@@ -8,3 +8,7 @@ llms:
 
 lovable:
 -basics
+
+Idea: "Education Assistant: Parent/Child/Teachers"
+
+
